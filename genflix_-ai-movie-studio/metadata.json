@@ -1,0 +1,7 @@
+{
+  "name": "GenFlix: AI Movie Studio",
+  "description": "A premium AI-powered streaming and creation platform where users generate, edit, and watch micro-movies created entirely with Gemini and Veo models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "AetherStream",
+  "description": "A next-generation AI-first streaming platform where all cinematic content is generated on-demand by the user.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
